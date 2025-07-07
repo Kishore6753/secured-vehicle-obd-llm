@@ -1,0 +1,8 @@
+{
+    "Car_ID"   : "101",
+    "Board" : "Telematics",
+    "Object" : "AppA",
+    "Subject" : "AppB",
+    "Access" : "rxw",
+    "Status" : "Active"
+}  
